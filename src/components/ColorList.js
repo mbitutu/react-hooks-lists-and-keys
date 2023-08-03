@@ -11,7 +11,7 @@ function ColorList() {
 
   return (
     <div>
-      <h1>Top 5 CSS Colors</h1>
+      <h1>The Top 5 CSS Colors</h1>
       <ol>
         <li style={{ color: colors[0] }}>{colors[0]}</li>
         <li style={{ color: colors[1] }}>{colors[1]}</li>
